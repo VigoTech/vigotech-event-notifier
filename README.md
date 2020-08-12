@@ -17,7 +17,7 @@ docker-compose up -d
 E logo facer a instalación das dependencias con composer:
 
 ```
-docker-compose exec php bash composer install
+docker-compose exec php_cli composer install
 ```
 
 ## Configuración
